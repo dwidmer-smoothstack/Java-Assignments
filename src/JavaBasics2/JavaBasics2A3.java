@@ -1,3 +1,5 @@
+package JavaBasics2;
+
 public class JavaBasics2A3 {
 
     interface Shape {

@@ -1,3 +1,5 @@
+package JavaBasics2;
+
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+package JavaBasics2;
+
 public class JavaBasics2A1 {
     public static void main(String[] args) {
         double sum = 0;
